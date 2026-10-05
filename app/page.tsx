@@ -15,7 +15,6 @@ export default function Home() {
           <nav className="hidden md:flex gap-3 text-sm items-center flex-1 justify-center">
             <a href="#drops" className="px-4 py-2 bg-white border border-black rounded-sm font-bold text-black hover:bg-black hover:text-white transition-colors">Shop</a>
             <a href="#story" className="px-4 py-2 bg-white border border-black rounded-sm font-bold text-black hover:bg-black hover:text-white transition-colors">Story</a>
-            <a href="#collections" className="px-4 py-2 bg-white border border-black rounded-sm font-bold text-black hover:bg-black hover:text-white transition-colors">Collections</a>
           </nav>
           <div className="flex-shrink-0"></div>
         </div>
