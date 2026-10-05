@@ -18,7 +18,7 @@ export default function BrandStory() {
         </div>
 
         <div className="rounded-sm overflow-hidden placeholder-bg">
-          <img src="https://placehold.net/8.png" alt="Editorial image" className="w-full h-80 md:h-96 object-cover" />
+          <img src="/Images/MMS07827-2.jpg" alt="Editorial image" className="w-full h-80 md:h-96 object-cover" />
         </div>
       </div>
     </section>
